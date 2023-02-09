@@ -13,13 +13,13 @@
                     <li>Video Production🎞️</li>
                     <li>Photography📷</li>
                     <li>Sewwing and Leathercraft 🧵</li>
-                    <li>3D Printing and Painting  <img src="./Assets/3d2.png" alt="CSS" height=25px/></li>
+                    <li>3D Printing and Painting  <img src="./Assets/3d2.png" alt="3D Printing" height=25px/></li>
                     <li>Drawing ✏️</li>
                 </ul>
             <p>But I'm here because I love coding, too! I am:</p>
             <ul>
                 <li>A Full-Stack Web Developer in progress</li>
-                <li>Currently going through Coding Dojo</li>
+                <li>Currently going through Coding Dojo  <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time" target="_blank"><img src="./Assets/cd3.png" alt="Coding Dojo" height=15px/></a></li>
                 <li>Looking to find a job in front-end web dev. where I can showcase my creative side</li>
                 <li>Capable and enjoy working with back-end just as much</li>
             </ul>           
