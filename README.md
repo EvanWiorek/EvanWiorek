@@ -32,6 +32,16 @@
     </td>
 </body>
 </table> 
+<table>
+    <td style="width:50%">
+  <p align="center"><i>“He said to them, “Why are you afraid, you men of little faith?” Then He got up and rebuked the winds and the sea, and it became perfectly calm.” </i> </p>
+        <p align="center">Matthew 8:26</p>
+        <p></p>
+        <p align="center"><i>“I can do all things through Him who strengthens me.”</i></p>
+
+  <p align="center">Philippians 4:13</p>
+    </td>
+    </table>
 
 
 
