@@ -13,8 +13,8 @@
                     <li>Video Production🎞️</li>
                     <li>Photography📷</li>
                     <li>Sewwing and Leathercraft 🧵</li>
-                    <li>3D Printing and Painting<img src="./Assets/3d.png" alt="CSS" height=20px/></li>
-                    <li>Drawing</li>
+                    <li>3D Printing and Painting  <img src="./Assets/3d2.png" alt="CSS" height=25px/></li>
+                    <li>Drawing ✏️</li>
                 </ul>
             <p>But I'm here because I love coding, too! I am:</p>
             <ul>
