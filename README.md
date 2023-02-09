@@ -35,11 +35,13 @@
 
 <h2>Proficient In</h2>
 
-<img src=./Assets/languages/html.png alt="HTML" height=64px/><img src="./Assets/img/Logos/png/css.png" alt="CSS" height=64px/>
-<img src=./Assets/img/Logos/png/CSharp.png alt="" height=64px/><img src="./Assets/img/Logos/png/Github.png" alt="" height=64px/>
-<img src="./Assets/img/Logos/png/Python.png" alt="" height=64px/><img src="./Assets/img/Logos/png/React.png" alt="" height=64px/>
-<img src="./Assets/img/Logos/png/HTML_Badge.png" alt="" height=64px/><img src="./Assets/img/Logos/png/Node.png" alt="" height=64px/>
-<img src="./Assets/img/Logos/png/Mongo.png" alt="" height=64px/><img src="./Assets/img/Logos/png/Unity.png" alt="" height=64px/>
+<img src=./Assets/languages/html.png alt="HTML" height=50px/>&nbsp;&nbsp;<img src="./Assets/languages/css.png" alt="CSS" height=50px/>
+<!-- need to add javascript, python, GIT, terminal,
+APIS
+AJAX
+CSS
+Bootstrap
+jQuery--!>
 
 <table>
     <td style="width:50%">
