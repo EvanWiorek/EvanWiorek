@@ -2,7 +2,7 @@
 
 -->
 
-#  <img src="./Assets/banner8.png" alt="" height=150px/>
+#  Hi - I'm Evan :)
 
 
 <table>
