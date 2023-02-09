@@ -9,11 +9,11 @@
         <body>
             <p> I have a lot of hobbies. I like:</p>
                 <ul>
-                    <li>Graphic Design</li>
-                    <li>Video Production</li>
-                    <li>Photography</li>
-                    <li>Sewwing and Leathercraft</li>
-                    <li>3D Printing and Painting</li>
+                    <li>Graphic Design💻🎨</li>
+                    <li>Video Production🎞️</li>
+                    <li>Photography📷</li>
+                    <li>Sewwing and Leathercraft 🧵</li>
+                    <li>3D Printing and Painting<img src="./Assets/3d.png" alt="CSS" height=20px/></li>
                     <li>Drawing</li>
                 </ul>
             <p>But I'm here because I love coding, too! I am:</p>
@@ -23,7 +23,8 @@
                 <li>Looking to find a job in front-end web dev. where I can showcase my creative side</li>
                 <li>Capable and enjoy working with back-end just as much</li>
             </ul>           
-<p>I’ve worked with many different mediums, and I really love to learn. It is so rewarding to try something new and have it turn out well -  and even when it doesn’t, I can at least say that I’ve tried it!</p>
+            <h3>Background</h3>
+            <p>I’ve worked with many different mediums, and I really love to learn. It is so rewarding to try something new and have it turn out well -  and even when it doesn’t, I can at least say that I’ve tried it!</p>
 
 <p>I am a graduate of the University of Wisconsin Stevens Point, with a bachelors of science degree in Education.</p>
 
@@ -46,7 +47,7 @@ APIS
 AJAX
 CSS
 Bootstrap
-jQuery--!>
+jQuery-->
 
 <table>
     <td style="width:50%">
