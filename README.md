@@ -16,13 +16,18 @@
                     <li>3D Printing and Painting</li>
                     <li>Drawing</li>
                 </ul>
-<p>But I'm here because I like coding, too! I am a Full-Stack Web Developer in progress, currently going through Coding Dojo. I am looking to find a job in front-end web. dev. where I can showcase my creative side, but am capable and enjoy working with back-end just as much.</p>
-           
+            <p>But I'm here because I love coding, too! I am:</p>
+            <ul>
+                <li>A Full-Stack Web Developer in progress</li>
+                <li>Currently going through Coding Dojo</li>
+                <li>Looking to find a job in front-end web dev. where I can showcase my creative side</li>
+                <li>Capable and enjoy working with back-end just as much</li>
+            </ul>           
 <p>I’ve worked with many different mediums, and I really love to learn. It is so rewarding to try something new and have it turn out well -  and even when it doesn’t, I can at least say that I’ve tried it!</p>
 
-<p>I am a graduate of the University of Wisconsin Stevens Point, with a bachelors of arts degree in Family and Consumer Sciences Education, as well as a minor in Health Education. </p>
+<p>I am a graduate of the University of Wisconsin Stevens Point, with a bachelors of science degree in Education.</p>
 
-<p>When I am not working on projects, I am thanking God for everything He has given me, spending time with my wife and kids, and/or playing video games 🖥️🎮.</p>
+<p>When I am not working on projects, I am thanking God for everything He has given me, living life with my wife and kids, and/or playing video games 🖥️🎮.</p>
 <td style="width:50%">
             <img src=./Assets/gallery.gif style="width:500px">
         <div>
