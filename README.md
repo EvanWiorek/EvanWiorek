@@ -31,7 +31,16 @@
         </div>
     </td>
 </body>
-</table> 
+</table>
+
+<h2>Proficient In</h2>
+
+<img src=./Assets/languages/html.png alt="HTML" height=64px/><img src="./Assets/img/Logos/png/css.png" alt="CSS" height=64px/>
+<img src=./Assets/img/Logos/png/CSharp.png alt="" height=64px/><img src="./Assets/img/Logos/png/Github.png" alt="" height=64px/>
+<img src="./Assets/img/Logos/png/Python.png" alt="" height=64px/><img src="./Assets/img/Logos/png/React.png" alt="" height=64px/>
+<img src="./Assets/img/Logos/png/HTML_Badge.png" alt="" height=64px/><img src="./Assets/img/Logos/png/Node.png" alt="" height=64px/>
+<img src="./Assets/img/Logos/png/Mongo.png" alt="" height=64px/><img src="./Assets/img/Logos/png/Unity.png" alt="" height=64px/>
+
 <table>
     <td style="width:50%">
   <h5 align="center"><i>“He said to them, “Why are you afraid, you men of little faith?” Then He got up and rebuked the winds and the sea, and it became perfectly calm.” </i> </h5>
