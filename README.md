@@ -24,7 +24,7 @@
 
 <p>When I am not working on projects, I am thanking God for everything He has given me, spending time with my wife and kids, and/or playing video games 🖥️🎮.</p>
 <td style="width:50%">
-        <img src=./Assets/img/ style="width:500px"/>
+            <img src=./Assets/gallery.gif style="width:500px">
         <div>
             <a href="https://www.evanwiorek.com">Check out more on my website!</a>
             <p> <a href="https://www.figma.com/community/plugin/733025261168520714/Figmotion"></a><p>
@@ -32,4 +32,6 @@
     </td>
 </body>
 </table> 
+
+
 
