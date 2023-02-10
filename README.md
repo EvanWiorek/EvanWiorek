@@ -29,7 +29,9 @@
 
 <p>I am a graduate of the University of Wisconsin Stevens Point, with a bachelors of science degree in Education.</p>
 
-<p>When I am not working on projects, I am thanking God for everything He has given me, living life with my wife and kids, and/or playing video games 🖥️🎮.</p>
+<p>When I am not working on projects, I am thanking God for everything He has given me 🙏, living life with my wife and kids, and/or playing video games 🖥️🎮.</p>
+            <br>
+            <p>📧 Reach me at wiorek.evan@gmail.com</p>
 <td style="width:50%">
             <div>
             <img src=./Assets/FunKeyS.gif style="width:200px" align="center"><br>
