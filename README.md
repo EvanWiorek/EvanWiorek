@@ -3,10 +3,9 @@
 -->
 
 
-![name3](https://user-images.githubusercontent.com/124269000/218219586-f3be13fc-e154-4a0c-ab3e-201eb195abc8.svg)
+![evan-name](https://user-images.githubusercontent.com/124269000/218221021-adb723c2-dc28-4dc8-9ce0-9d5f41bcb668.svg)
 
-
-# <p align="center"> <img src="./Assets/hello-there.gif" alt="hello there" height=50px/></p>
+# <p align="center"> <img src="./Assets/hello-there.gif" alt="hello there" height=100px/></p>
 
 
 <table>
