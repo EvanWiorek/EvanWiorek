@@ -2,7 +2,11 @@
 
 -->
 
-#  Hello there! I'm Evan <img src="./Assets/hello-there.gif" alt="hello there" height=50px/>
+
+![name3](https://user-images.githubusercontent.com/124269000/218219586-f3be13fc-e154-4a0c-ab3e-201eb195abc8.svg)
+
+
+# <p align="center"> <img src="./Assets/hello-there.gif" alt="hello there" height=50px/></p>
 
 
 <table>
