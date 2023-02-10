@@ -2,8 +2,8 @@
 
 -->
 
-# Hi - I'm Evan :)
-<img src="./Assets/banner.png" alt="banner" height=50px/>
+#  Hi - I'm Evan :)
+
 
 <table>
     <td style="width:50%">
