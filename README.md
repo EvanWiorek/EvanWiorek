@@ -2,7 +2,7 @@
 
 -->
 
-#  Hi - I'm Evan :)
+#  Hello there! I'm Evan <img src="./Assets/hello-there.gif" alt="hello there" height=50px/>
 
 
 <table>
