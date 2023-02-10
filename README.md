@@ -19,9 +19,9 @@
                 </ul>
             <p>But I'm here because I love coding, too! I am:</p>
             <ul>
-                <li>A Full-Stack Web Developer in progress</li>
+                <li>A Full-Stack Web Developer in progress   <img src="./Assets/coding4.gif" alt="coding icon" height=20px/></li>
                 <li>Currently going through Coding Dojo  <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time" target="_blank"><img src="./Assets/cd3.png" alt="Coding Dojo" height=15px/></a></li>
-                <li>Looking to find a job in front-end web dev. where I can showcase my creative side   <img src="./Assets/codingicon.png" alt="coding icon" height=25px/></li>
+                <li>Looking to find a job in front-end web dev. where I can showcase my creative side 👔</li>
                 <li>Capable and enjoy working with back-end just as much</li>
             </ul>           
             <h3>Background</h3>
