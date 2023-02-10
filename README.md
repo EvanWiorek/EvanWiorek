@@ -21,7 +21,7 @@
             <ul>
                 <li>A Full-Stack Web Developer in progress</li>
                 <li>Currently going through Coding Dojo  <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time" target="_blank"><img src="./Assets/cd3.png" alt="Coding Dojo" height=15px/></a></li>
-                <li>Looking to find a job in front-end web dev. where I can showcase my creative side</li>
+                <li>Looking to find a job in front-end web dev. where I can showcase my creative side   <img src="./Assets/codingicon.png" alt="coding icon" height=25px/></li>
                 <li>Capable and enjoy working with back-end just as much</li>
             </ul>           
             <h3>Background</h3>
@@ -31,11 +31,14 @@
 
 <p>When I am not working on projects, I am thanking God for everything He has given me, living life with my wife and kids, and/or playing video games 🖥️🎮.</p>
 <td style="width:50%">
-            <img src=./Assets/gallery.gif style="width:500px">
-        <div>
-            <a href="https://www.evanwiorek.com">Check out more on my website!</a>
-            <p> <a href="https://www.figma.com/community/plugin/733025261168520714/Figmotion"></a><p>
-        </div>
+            <div>
+            <img src=./Assets/FunKeyS.gif style="width:200px" align="center"><br>
+            <a href="https://github.com/EvanWiorek/EvanWiorek/tree/main/FunKeySThemes" align="center"><p align="center">FunKey S Themes</p></a>
+            <img src=./Assets/Watch.gif style="width:200px" align="center"><br>
+            <a href="https://www.evanwiorek.com"><p align="center">Watch Faces</p></a>
+            <img src=./Assets/DoodlePlane.PNG style="width:200px" align="center"><br>
+            <a href="https://github.com/EvanWiorek/Bootcamp-Projects/tree/main/Games"><p align="center">Games</p></a>
+            </div>
     </td>
 </body>
 </table>
