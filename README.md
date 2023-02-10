@@ -57,7 +57,7 @@ jQuery-->
 
 <h2>Toolbelt</h2>
 
-<img src=./Assets/toolbelt/vs.png alt="Visual Studio" height=50px/>&nbsp;&nbsp;<img src="./Assets/toolbelt/gimp.png" alt="GIMP" height=50px/>
+<img src=./Assets/toolbelt/vs.png alt="Visual Studio" height=50px/>&nbsp;&nbsp;<img src="./Assets/toolbelt/gimp.png" alt="GIMP" height=50px/>&nbsp;&nbsp;<img src="./Assets/toolbelt/logo@2x.png" alt="Git" height=50px/>
 <table>
     <td style="width:50%">
   <h5 align="center"><i>“He said to them, “Why are you afraid, you men of little faith?” Then He got up and rebuked the winds and the sea, and it became perfectly calm.” </i> </h5>
