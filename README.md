@@ -1,8 +1,7 @@
 <!--
 
 -->
-![evan-name](https://user-images.githubusercontent.com/124269000/218221131-612d2606-c569-4b88-ba84-ccb5db98b248.svg)
-
+![evan-name](https://user-images.githubusercontent.com/124269000/218221443-47df6075-78fc-4b7a-9243-4b1d2b28ae34.svg)
 
 # <p align="center"> <img src="./Assets/hello-there.gif" alt="hello there" height=100px/></p>
 
