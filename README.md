@@ -40,7 +40,7 @@
             <img src=./Assets/FunKeyS.gif style="width:200px" align="center"><br>
             <a href="https://github.com/EvanWiorek/EvanWiorek/tree/main/FunKeySThemes" align="center"><p align="center">FunKey S Themes</p></a>
             <img src=./Assets/Watch.gif style="width:200px" align="center" href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><br>
-            <a href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><p align="center">Watch Faces</p></a>
+            <a href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><p align="center">Watch Widgets</p></a>
             <img src=./Assets/DoodlePlane.PNG style="width:200px" align="center"><br>
             <a href="https://github.com/EvanWiorek/Bootcamp-Projects/tree/main/Games"><p align="center">Games</p></a>
             </div>
