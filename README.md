@@ -66,7 +66,7 @@ jQuery-->
   <h5 align="center"><i>“He said to them, “Why are you afraid, you men of little faith?” Then He got up and rebuked the winds and the sea, and it became perfectly calm.” </i> </h5>
         <h6 align="center">Matthew 8:26</h6>
         <p></p>
-        <h5 align="center"><i>“I have the strength for everything through him who empowers me.”</i></h5>
+        <h5 align="center"><i>“I have the strength for everything through Him who empowers me.”</i></h5>
 
   <h6 align="center">Philippians 4:13</h6>
     </td>
