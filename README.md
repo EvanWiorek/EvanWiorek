@@ -16,7 +16,7 @@
                     <li>Graphic Design💻🎨</li>
                     <li>Video Production🎞️</li>
                     <li>Photography📷</li>
-                    <li>Sewwing and Leathercraft 🧵</li>
+                    <li>Sewwing and Leathercraft <img src="./Assets/leathercraft.png" alt="Minecraft Leather Icon" height=20px/></li>
                     <li>3D Printing and Painting  <img src="./Assets/3d2.png" alt="3D Printing" height=25px/></li>
                     <li>Drawing ✏️</li>
                 </ul>
