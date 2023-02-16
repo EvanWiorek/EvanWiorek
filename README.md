@@ -50,7 +50,7 @@
 
 <h2>Proficient In</h2>
 
-<img src=./Assets/languages/html.png alt="HTML" height=50px/>&nbsp;&nbsp;<img src="./Assets/languages/css.png" alt="CSS" height=50px/>
+<img src=./Assets/languages/html.png alt="HTML" height=50px/>&nbsp;&nbsp;<img src="./Assets/languages/css.png" alt="CSS" height=50px/>&nbsp;&nbsp;<img src="./Assets/languages/javascript.png" alt="JavaScript" height=50px/>
 <!-- need to add javascript, python, GIT, terminal,
 APIS
 AJAX
