@@ -39,7 +39,7 @@
             <a href="https://github.com/EvanWiorek/EvanWiorek/tree/main/FunKeySThemes" align="center"><p align="center">FunKey S Themes</p></a>
             <img src=./Assets/Watch2.gif style="width:200px" align="center" href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><br>
             <a href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><p align="center">Watch Widgets</p></a>
-            <img src=./Assets/bootcamp-projects.gif style="width:200px" align="center"><br>
+            <img src=./Assets/bootcamp-projects2.gif style="width:200px" align="center"><br>
             <a href="https://github.com/EvanWiorek/Bootcamp-Projects"><p align="center">Bootcamp Projects</p></a>
             </div>
     </td>
