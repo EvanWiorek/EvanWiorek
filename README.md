@@ -48,7 +48,7 @@
 
 <h2>Proficient In</h2>
 
-<img src=./readme-assets/languages/html.png alt="HTML" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/css.png" alt="CSS" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/javascript.png" alt="JavaScript" height=50px/>
+<img src=./readme-assets/languages/html.png alt="HTML" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/css.png" alt="CSS" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/javascript.png" alt="JavaScript" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/python.png" alt="Python" height=50px/>
 <!-- need to add javascript, python, GIT, terminal,
 APIS
 AJAX
