@@ -34,10 +34,10 @@
             <br>
             <p>📧 Reach me at wiorek.evan@gmail.com</p>
 <td style="width:50%">
-            <div>
-            <img src=./readme-assets/FunKeyS.gif style="width:200px" align="center"><br>
-            <a href="https://github.com/EvanWiorek/personal-projects/tree/master/FunKeySThemes" align="center"><p align="center">FunKey S Themes</p></a>
-            <img src=./readme-assets/Watch2.gif style="width:200px" align="center" href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><br>
+            <div align="center">
+            <img src=./readme-assets/portfolio.gif style="width:400px" align="center"><br>
+            <a href="https://evan-wiorek.com" align="center"><p align="center">Portfolio Wesbite</p></a>
+            <img src=./readme-assets/Watch2.gif style="width:150px" align="center" href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><br>
             <a href="https://github.com/EvanWiorek/personal-projects/tree/master/Watch-Widgets"><p align="center">Watch Widgets</p></a>
             <img src=./readme-assets/bootcamp-projects3.gif style="width:200px" align="center"><br>
             <a href="https://github.com/EvanWiorek/Bootcamp-Projects"><p align="center">Bootcamp Projects</p></a>
