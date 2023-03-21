@@ -51,7 +51,6 @@
 <h2>Proficient In</h2>
 
 <img src=./readme-assets/languages/html.png alt="HTML" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/css.png" alt="CSS" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/javascript.png" alt="JavaScript" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/python.png" alt="Python" height=50px/>
-<!-- need to add javascript, python, GIT, terminal,
 APIS
 AJAX
 CSS
@@ -60,7 +59,7 @@ jQuery-->
 
 <h2>Toolbelt</h2>
 
-<img src=./readme-assets/toolbelt/vs.png alt="Visual Studio" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/gimp.png" alt="GIMP" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/git.png" alt="Git" height=50px/>
+<img src=./readme-assets/toolbelt/flask.png alt="Flask" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/gunicorn.png alt="Gunicorn" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/mysql.png alt="MySQL" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/vs.png alt="Visual Studio" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/gimp.png" alt="GIMP" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/git.png" alt="Git" height=50px/>
 <table>
     <td style="width:50%">
   <h5 align="center"><i>“He said to them, “Why are you afraid, you men of little faith?” Then He got up and rebuked the winds and the sea, and it became perfectly calm.” </i> </h5>
