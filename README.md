@@ -21,7 +21,7 @@
             <p>But I'm here because I love coding, too! I am:</p>
             <ul>
                 <li>A Full-Stack Web Developer in progress   <img src="./readme-assets/coding4.gif" alt="coding icon" height=20px/></li>
-                <li>Currently going through Coding Dojo  <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time" target="_blank"><img src="./readme-assets/cd3.png" alt="Coding Dojo" height=15px/></a></li>
+                <li>Currently going through Coding Dojo, with a Black Belt in the Python Curriculum  <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time" target="_blank"><img src="./readme-assets/cd3.png" alt="Coding Dojo" height=15px/></a></li>
                 <li>Looking to find a job in front-end web dev. where I can showcase my creative side 👔</li>
                 <li>Capable and enjoy working with back-end just as much</li>
             </ul>           
@@ -51,15 +51,10 @@
 <h2>Proficient In</h2>
 
 <img src=./readme-assets/languages/html.png alt="HTML" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/css.png" alt="CSS" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/javascript.png" alt="JavaScript" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/languages/python.png" alt="Python" height=50px/>
-APIS
-AJAX
-CSS
-Bootstrap
-jQuery-->
 
 <h2>Toolbelt</h2>
 
-<img src=./readme-assets/toolbelt/flask.png alt="Flask" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/gunicorn.png alt="Gunicorn" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/mysql.png alt="MySQL" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/vs.png alt="Visual Studio" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/gimp.png" alt="GIMP" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/git.png" alt="Git" height=50px/>
+<img src=./readme-assets/toolbelt/flask.png alt="Flask" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/gunicorn.png alt="Gunicorn" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/mysql.png alt="MySQL" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/bs.png alt="Bootstrap" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/vs.png alt="Visual Studio" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/gimp.png" alt="GIMP" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/git.png" alt="Git" height=50px/>
 <table>
     <td style="width:50%">
   <h5 align="center"><i>“He said to them, “Why are you afraid, you men of little faith?” Then He got up and rebuked the winds and the sea, and it became perfectly calm.” </i> </h5>
