@@ -55,16 +55,14 @@
 <h2>Toolbelt</h2>
 
 <img src=./readme-assets/toolbelt/flask.png alt="Flask" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/gunicorn.png alt="Gunicorn" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/mysql.png alt="MySQL" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/AWS-EC2.png alt="AWS EC2" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/bs.png alt="Bootstrap" height=50px/>&nbsp;&nbsp;<img src=./readme-assets/toolbelt/vs.png alt="Visual Studio" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/gimp.png" alt="GIMP" height=50px/>&nbsp;&nbsp;<img src="./readme-assets/toolbelt/git.png" alt="Git" height=50px/>
-<table>
-    <td style="width:50%">
-  <h5 align="center"><i>“He said to them, “Why are you afraid, you men of little faith?” Then He got up and rebuked the winds and the sea, and it became perfectly calm.” </i> </h5>
-        <h6 align="center">Matthew 8:26</h6>
-        <p></p>
-        <h5 align="center"><i>“I have the strength for everything through Him who empowers me.”</i></h5>
 
-  <h6 align="center">Philippians 4:13</h6>
-    </td>
-    </table>
+<br>
+
+<br>
+
+#
+<h5 align="center"><i>“I have the strength for everything through Him who empowers me.”</i></h5>
+<h6 align="center">Philippians 4:13</h6>
 
 
 
