@@ -36,7 +36,7 @@
 <td style="width:50%">
             <div align="center">
             <img src=./readme-assets/portfolio.gif style="width:400px" align="center"><br>
-            <a href="https://evan-wiorek.com" align="center"><p align="center">Portfolio Wesbite</p></a>
+            <a href="https://evanwiorek.com" align="center"><p align="center">Portfolio Wesbite</p></a>
             <img src=./readme-assets/looseonearth.gif style="width:400px" align="center"><br>
             <a href="https://loose-on-earth.com" align="center"><p align="center">Loose On Earth | Confession Helper</p></a>
             <img src=./readme-assets/Watch2.gif style="width:150px" align="center" href="https://github.com/EvanWiorek/EvanWiorek/tree/main/Watch-Widgets"><br>
